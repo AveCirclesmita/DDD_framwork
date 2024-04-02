@@ -1,0 +1,63 @@
+DEBUG	2023-01-16 22:10:20,442	1	com.cjc.webapp.DemoBlaze.Test.DemoBlazeTest	[main]	Send URL to the browser By XML Parameter
+INFO	2023-01-16 22:10:20,679	238	com.cjc.webapp.DemoBlaze.Test.DemoBlazeTest	[main]	Maximizing The Window
+INFO	2023-01-16 22:10:20,705	264	com.cjc.webapp.DemoBlaze.Test.DemoBlazeTest	[main]	Cookies Length Before = 1
+DEBUG	2023-01-16 22:12:39,910	0	com.cjc.webapp.DemoBlaze.Test.DemoBlazeTest	[main]	Send URL to the browser By XML Parameter
+INFO	2023-01-16 22:12:40,161	251	com.cjc.webapp.DemoBlaze.Test.DemoBlazeTest	[main]	Maximizing The Window
+INFO	2023-01-16 22:12:40,202	292	com.cjc.webapp.DemoBlaze.Test.DemoBlazeTest	[main]	Cookies Length Before = 1
+DEBUG	2023-01-16 22:17:54,256	0	com.cjc.webapp.DemoBlaze.Test.DemoBlazeTest	[main]	Send URL to the browser By XML Parameter
+INFO	2023-01-16 22:17:54,443	187	com.cjc.webapp.DemoBlaze.Test.DemoBlazeTest	[main]	Maximizing The Window
+INFO	2023-01-16 22:17:54,475	219	com.cjc.webapp.DemoBlaze.Test.DemoBlazeTest	[main]	Cookies Length Before = 1
+DEBUG	2023-01-16 22:27:49,158	0	com.cjc.webapp.DemoBlaze.Test.DemoBlazeTest	[main]	Send URL to the browser By XML Parameter
+INFO	2023-01-16 22:27:49,343	185	com.cjc.webapp.DemoBlaze.Test.DemoBlazeTest	[main]	Maximizing The Window
+INFO	2023-01-16 22:27:49,369	211	com.cjc.webapp.DemoBlaze.Test.DemoBlazeTest	[main]	Cookies Length Before = 1
+DEBUG	2023-01-16 22:30:16,172	0	com.cjc.webapp.DemoBlaze.Test.DemoBlazeTest	[main]	Send URL to the browser By XML Parameter
+INFO	2023-01-16 22:30:16,393	221	com.cjc.webapp.DemoBlaze.Test.DemoBlazeTest	[main]	Maximizing The Window
+INFO	2023-01-16 22:30:16,433	261	com.cjc.webapp.DemoBlaze.Test.DemoBlazeTest	[main]	Cookies Length Before = 1
+DEBUG	2023-01-16 22:36:44,419	0	com.cjc.webapp.DemoBlaze.Test.DemoBlazeTest	[main]	Send URL to the browser By XML Parameter
+INFO	2023-01-16 22:36:44,607	188	com.cjc.webapp.DemoBlaze.Test.DemoBlazeTest	[main]	Maximizing The Window
+INFO	2023-01-16 22:36:44,641	222	com.cjc.webapp.DemoBlaze.Test.DemoBlazeTest	[main]	Cookies Length Before = 1
+DEBUG	2023-01-16 22:43:01,047	0	com.cjc.webapp.DemoBlaze.Test.DemoBlazeTest	[main]	Send URL to the browser By XML Parameter
+INFO	2023-01-16 22:43:01,254	207	com.cjc.webapp.DemoBlaze.Test.DemoBlazeTest	[main]	Maximizing The Window
+INFO	2023-01-16 22:43:01,295	248	com.cjc.webapp.DemoBlaze.Test.DemoBlazeTest	[main]	Cookies Length Before = 1
+INFO	2023-01-16 22:43:06,993	5946	com.cjc.webapp.DemoBlaze.page.DemoBlaze1Signup	[main]	User SignUp
+INFO	2023-01-16 22:43:09,650	8603	com.cjc.webapp.DemoBlaze.Test.DemoBlazeTest	[main]	Screen Shot After Completion The Process
+INFO	2023-01-16 22:43:09,671	8624	com.cjc.webapp.DemoBlaze.Test.DemoBlazeTest	[main]	Cookies Length Before = 1
+INFO	2023-01-16 22:43:12,667	11620	com.cjc.webapp.DemoBlaze.page.DemoBlaze2Login	[main]	User Login
+INFO	2023-01-16 22:43:15,387	14340	com.cjc.webapp.DemoBlaze.Test.DemoBlazeTest	[main]	Screen Shot After Completion The Process
+INFO	2023-01-16 22:43:15,422	14375	com.cjc.webapp.DemoBlaze.Test.DemoBlazeTest	[main]	Delete All Cookies
+INFO	2023-01-16 22:43:15,423	14376	com.cjc.webapp.DemoBlaze.Test.DemoBlazeTest	[main]	Data Base Connection Close
+ERROR	2023-01-16 22:43:18,481	17434	com.cjc.webapp.DemoBlaze.Test.DemoBlazeTest	[main]	Carefully Browser Close
+DEBUG	2023-01-16 22:44:33,211	0	com.cjc.webapp.DemoBlaze.Test.DemoBlazeTest	[main]	Send URL to the browser By XML Parameter
+INFO	2023-01-16 22:44:33,400	189	com.cjc.webapp.DemoBlaze.Test.DemoBlazeTest	[main]	Maximizing The Window
+INFO	2023-01-16 22:44:33,427	216	com.cjc.webapp.DemoBlaze.Test.DemoBlazeTest	[main]	Cookies Length Before = 0
+INFO	2023-01-16 22:44:38,950	5739	com.cjc.webapp.DemoBlaze.page.DemoBlaze1Signup	[main]	User SignUp
+INFO	2023-01-16 22:44:41,623	8412	com.cjc.webapp.DemoBlaze.Test.DemoBlazeTest	[main]	Screen Shot After Completion The Process
+INFO	2023-01-16 22:44:41,639	8428	com.cjc.webapp.DemoBlaze.Test.DemoBlazeTest	[main]	Cookies Length Before = 1
+INFO	2023-01-16 22:44:44,651	11440	com.cjc.webapp.DemoBlaze.page.DemoBlaze2Login	[main]	User Login
+INFO	2023-01-16 22:44:47,654	14443	com.cjc.webapp.DemoBlaze.Test.DemoBlazeTest	[main]	Screen Shot After Completion The Process
+INFO	2023-01-16 22:44:47,663	14452	com.cjc.webapp.DemoBlaze.Test.DemoBlazeTest	[main]	Cookies Length Before = 2
+INFO	2023-01-16 22:44:59,783	26572	com.cjc.webapp.DemoBlaze.page.DemoBlaze3AddToCart	[main]	Product Add To Cart
+INFO	2023-01-16 22:45:02,242	29031	com.cjc.webapp.DemoBlaze.Test.DemoBlazeTest	[main]	Screen Shot After Completion The Process
+INFO	2023-01-16 22:45:02,251	29040	com.cjc.webapp.DemoBlaze.Test.DemoBlazeTest	[main]	Cookies Length Before = 2
+INFO	2023-01-16 22:45:09,581	36370	com.cjc.webapp.DemoBlaze.page.DemoBlaze4PlaceOrder	[main]	Place The Order
+INFO	2023-01-16 22:45:12,115	38904	com.cjc.webapp.DemoBlaze.Test.DemoBlazeTest	[main]	Screen Shot After Completion The Process
+INFO	2023-01-16 22:45:12,147	38936	com.cjc.webapp.DemoBlaze.Test.DemoBlazeTest	[main]	Delete All Cookies
+INFO	2023-01-16 22:45:12,149	38938	com.cjc.webapp.DemoBlaze.Test.DemoBlazeTest	[main]	Data Base Connection Close
+ERROR	2023-01-16 22:45:15,206	41995	com.cjc.webapp.DemoBlaze.Test.DemoBlazeTest	[main]	Carefully Browser Close
+DEBUG	2023-01-17 10:11:40,054	0	com.cjc.webapp.DemoBlaze.Test.DemoBlazeTest	[main]	Send URL to the browser By XML Parameter
+INFO	2023-01-17 10:11:40,244	190	com.cjc.webapp.DemoBlaze.Test.DemoBlazeTest	[main]	Maximizing The Window
+INFO	2023-01-17 10:11:40,280	226	com.cjc.webapp.DemoBlaze.Test.DemoBlazeTest	[main]	Cookies Length Before = 1
+INFO	2023-01-17 10:11:45,813	5759	com.cjc.webapp.DemoBlaze.page.DemoBlaze1Signup	[main]	User SignUp
+INFO	2023-01-17 10:11:48,491	8437	com.cjc.webapp.DemoBlaze.Test.DemoBlazeTest	[main]	Screen Shot After Completion The Process
+INFO	2023-01-17 10:11:48,505	8451	com.cjc.webapp.DemoBlaze.Test.DemoBlazeTest	[main]	Cookies Length Before = 1
+INFO	2023-01-17 10:11:51,530	11476	com.cjc.webapp.DemoBlaze.page.DemoBlaze2Login	[main]	User Login
+INFO	2023-01-17 10:11:54,038	13984	com.cjc.webapp.DemoBlaze.Test.DemoBlazeTest	[main]	Screen Shot After Completion The Process
+INFO	2023-01-17 10:11:54,047	13993	com.cjc.webapp.DemoBlaze.Test.DemoBlazeTest	[main]	Cookies Length Before = 2
+INFO	2023-01-17 10:12:05,243	25189	com.cjc.webapp.DemoBlaze.page.DemoBlaze3AddToCart	[main]	Product Add To Cart
+INFO	2023-01-17 10:12:07,749	27695	com.cjc.webapp.DemoBlaze.Test.DemoBlazeTest	[main]	Screen Shot After Completion The Process
+INFO	2023-01-17 10:12:07,760	27706	com.cjc.webapp.DemoBlaze.Test.DemoBlazeTest	[main]	Cookies Length Before = 2
+INFO	2023-01-17 10:12:14,787	34733	com.cjc.webapp.DemoBlaze.page.DemoBlaze4PlaceOrder	[main]	Place The Order
+INFO	2023-01-17 10:12:17,312	37258	com.cjc.webapp.DemoBlaze.Test.DemoBlazeTest	[main]	Screen Shot After Completion The Process
+INFO	2023-01-17 10:12:17,346	37292	com.cjc.webapp.DemoBlaze.Test.DemoBlazeTest	[main]	Delete All Cookies
+INFO	2023-01-17 10:12:17,347	37293	com.cjc.webapp.DemoBlaze.Test.DemoBlazeTest	[main]	Data Base Connection Close
+ERROR	2023-01-17 10:12:20,403	40349	com.cjc.webapp.DemoBlaze.Test.DemoBlazeTest	[main]	Carefully Browser Close
