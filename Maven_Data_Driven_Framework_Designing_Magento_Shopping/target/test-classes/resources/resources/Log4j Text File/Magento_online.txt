@@ -1,0 +1,148 @@
+INFO	2023-10-31 14:52:46,112	0	com.cjcwebapp.Magento.Test.Magento_onlineshopping_Test	[main]	Screen Shot After Completion The Process
+INFO	2023-10-31 14:55:54,145	0	com.cjcwebapp.Magento.Test.Magento_onlineshopping_Test	[main]	Screen Shot After Completion The Process
+INFO	2023-10-31 14:56:07,410	13265	com.cjcwebapp.Magento.Test.Magento_onlineshopping_Test	[main]	Screen Shot After Completion The Process
+INFO	2023-10-31 14:56:08,514	14369	com.cjcwebapp.Magento.page.Loging_page	[main]	smitasukhadevpawar131@gmail.com
+INFO	2023-10-31 14:56:08,514	14369	com.cjcwebapp.Magento.page.Loging_page	[main]	smita@155
+INFO	2023-10-31 14:56:25,683	31538	com.cjcwebapp.Magento.Test.Magento_onlineshopping_Test	[main]	Screen Shot After Completion The Process
+INFO	2023-10-31 14:56:58,984	64839	com.cjcwebapp.Magento.Test.Magento_onlineshopping_Test	[main]	Screen Shot After Completion The Process
+INFO	2023-10-31 14:57:12,394	78249	com.cjcwebapp.Magento.Test.Magento_onlineshopping_Test	[main]	Screen Shot After Completion The Process
+INFO	2023-10-31 14:57:24,658	90513	com.cjcwebapp.Magento.Test.Magento_onlineshopping_Test	[main]	Screen Shot After Completion The Process
+INFO	2023-10-31 14:58:22,161	0	com.cjcwebapp.Magento.page.Loging_page	[main]	smitasukhadevpawar131@gmail.com
+INFO	2023-10-31 14:58:22,161	0	com.cjcwebapp.Magento.page.Loging_page	[main]	smita@155
+INFO	2023-10-31 14:58:32,551	10390	com.cjcwebapp.Magento.Test.Magento_onlineshopping_Test	[main]	Screen Shot After Completion The Process
+INFO	2023-10-31 14:58:55,225	33064	com.cjcwebapp.Magento.Test.Magento_onlineshopping_Test	[main]	Screen Shot After Completion The Process
+INFO	2023-10-31 14:59:11,204	49043	com.cjcwebapp.Magento.Test.Magento_onlineshopping_Test	[main]	Screen Shot After Completion The Process
+INFO	2023-10-31 14:59:23,464	61303	com.cjcwebapp.Magento.Test.Magento_onlineshopping_Test	[main]	Screen Shot After Completion The Process
+INFO	2023-10-31 15:04:29,301	0	com.cjcwebapp.Magento.page.Loging_page	[main]	smitasukhadevpawar131@gmail.com
+INFO	2023-10-31 15:04:29,302	1	com.cjcwebapp.Magento.page.Loging_page	[main]	smita@155
+INFO	2023-10-31 15:04:38,709	9408	com.cjcwebapp.Magento.Test.Magento_onlineshopping_Test	[main]	Screen Shot After Completion The Process
+INFO	2023-10-31 15:05:00,815	31514	com.cjcwebapp.Magento.Test.Magento_onlineshopping_Test	[main]	Screen Shot After Completion The Process
+INFO	2023-10-31 15:05:21,914	52613	com.cjcwebapp.Magento.Test.Magento_onlineshopping_Test	[main]	Screen Shot After Completion The Process
+INFO	2023-10-31 15:05:34,152	64851	com.cjcwebapp.Magento.Test.Magento_onlineshopping_Test	[main]	Screen Shot After Completion The Process
+INFO	2023-10-31 15:06:24,913	0	com.cjcwebapp.Magento.page.Loging_page	[main]	smitasukhadevpawar131@gmail.com
+INFO	2023-10-31 15:06:24,914	1	com.cjcwebapp.Magento.page.Loging_page	[main]	smita@155
+INFO	2023-10-31 15:06:34,438	9525	com.cjcwebapp.Magento.Test.Magento_onlineshopping_Test	[main]	Screen Shot After Completion The Process
+INFO	2023-10-31 15:07:04,823	39910	com.cjcwebapp.Magento.Test.Magento_onlineshopping_Test	[main]	Screen Shot After Completion The Process
+INFO	2023-10-31 15:07:20,550	55637	com.cjcwebapp.Magento.Test.Magento_onlineshopping_Test	[main]	Screen Shot After Completion The Process
+INFO	2023-10-31 15:07:32,797	67884	com.cjcwebapp.Magento.Test.Magento_onlineshopping_Test	[main]	Screen Shot After Completion The Process
+INFO	2023-10-31 15:34:14,981	0	com.cjcwebapp.Magento.page.Loging_page	[main]	smitasukhadevpawar131@gmail.com
+INFO	2023-10-31 15:34:14,981	0	com.cjcwebapp.Magento.page.Loging_page	[main]	smita@155
+INFO	2023-10-31 15:34:24,479	9498	com.cjcwebapp.Magento.Test.Magento_onlineshopping_Test	[main]	Screen Shot After Completion The Process
+INFO	2023-10-31 15:35:25,214	70233	com.cjcwebapp.Magento.Test.Magento_onlineshopping_Test	[main]	Screen Shot After Completion The Process
+INFO	2023-10-31 15:36:03,501	0	com.cjcwebapp.Magento.page.Loging_page	[main]	smitasukhadevpawar131@gmail.com
+INFO	2023-10-31 15:36:03,501	0	com.cjcwebapp.Magento.page.Loging_page	[main]	smita@155
+INFO	2023-10-31 15:36:13,025	9524	com.cjcwebapp.Magento.Test.Magento_onlineshopping_Test	[main]	Screen Shot After Completion The Process
+INFO	2023-10-31 15:36:35,459	31958	com.cjcwebapp.Magento.Test.Magento_onlineshopping_Test	[main]	Screen Shot After Completion The Process
+INFO	2023-10-31 15:36:50,986	47485	com.cjcwebapp.Magento.Test.Magento_onlineshopping_Test	[main]	Screen Shot After Completion The Process
+INFO	2023-10-31 15:37:03,250	59749	com.cjcwebapp.Magento.Test.Magento_onlineshopping_Test	[main]	Screen Shot After Completion The Process
+INFO	2023-10-31 15:40:30,678	0	com.cjcwebapp.Magento.page.Loging_page	[main]	smitasukhadevpawar131@gmail.com
+INFO	2023-10-31 15:40:30,678	0	com.cjcwebapp.Magento.page.Loging_page	[main]	smita@155
+INFO	2023-10-31 15:40:39,446	8768	com.cjcwebapp.Magento.Test.Magento_onlineshopping_Test	[main]	Screen Shot After Completion The Process
+INFO	2023-10-31 15:41:01,615	30937	com.cjcwebapp.Magento.Test.Magento_onlineshopping_Test	[main]	Screen Shot After Completion The Process
+INFO	2023-10-31 15:41:19,123	48445	com.cjcwebapp.Magento.Test.Magento_onlineshopping_Test	[main]	Screen Shot After Completion The Process
+INFO	2023-10-31 15:41:21,295	50617	com.cjcwebapp.Magento.Test.Magento_onlineshopping_Test	[main]	Screen Shot After Completion The Process
+INFO	2023-10-31 15:42:01,923	0	com.cjcwebapp.Magento.page.Loging_page	[main]	smitasukhadevpawar131@gmail.com
+INFO	2023-10-31 15:42:01,924	1	com.cjcwebapp.Magento.page.Loging_page	[main]	smita@155
+INFO	2023-10-31 15:42:11,362	9439	com.cjcwebapp.Magento.Test.Magento_onlineshopping_Test	[main]	Screen Shot After Completion The Process
+INFO	2023-10-31 15:42:34,742	32819	com.cjcwebapp.Magento.Test.Magento_onlineshopping_Test	[main]	Screen Shot After Completion The Process
+INFO	2023-10-31 15:42:48,056	46133	com.cjcwebapp.Magento.Test.Magento_onlineshopping_Test	[main]	Screen Shot After Completion The Process
+INFO	2023-10-31 15:42:50,229	48306	com.cjcwebapp.Magento.Test.Magento_onlineshopping_Test	[main]	Screen Shot After Completion The Process
+INFO	2023-10-31 15:45:39,308	0	com.cjcwebapp.Magento.page.Loging_page	[main]	smitasukhadevpawar131@gmail.com
+INFO	2023-10-31 15:45:39,308	0	com.cjcwebapp.Magento.page.Loging_page	[main]	smita@155
+INFO	2023-10-31 15:45:51,623	12315	com.cjcwebapp.Magento.Test.Magento_onlineshopping_Test	[main]	Screen Shot After Completion The Process
+INFO	2023-10-31 15:45:58,622	19314	com.cjcwebapp.Magento.Test.Magento_onlineshopping_Test	[main]	Screen Shot After Completion The Process
+INFO	2023-10-31 15:46:11,084	31776	com.cjcwebapp.Magento.Test.Magento_onlineshopping_Test	[main]	Screen Shot After Completion The Process
+INFO	2023-10-31 15:46:13,583	34275	com.cjcwebapp.Magento.Test.Magento_onlineshopping_Test	[main]	Screen Shot After Completion The Process
+INFO	2023-10-31 15:47:17,621	0	com.cjcwebapp.Magento.page.Loging_page	[main]	smitasukhadevpawar131@gmail.com
+INFO	2023-10-31 15:47:17,621	0	com.cjcwebapp.Magento.page.Loging_page	[main]	smita@155
+INFO	2023-10-31 15:47:34,648	17027	com.cjcwebapp.Magento.Test.Magento_onlineshopping_Test	[main]	Screen Shot After Completion The Process
+INFO	2023-10-31 15:48:07,928	50307	com.cjcwebapp.Magento.Test.Magento_onlineshopping_Test	[main]	Screen Shot After Completion The Process
+INFO	2023-10-31 15:48:20,242	62621	com.cjcwebapp.Magento.Test.Magento_onlineshopping_Test	[main]	Screen Shot After Completion The Process
+INFO	2023-10-31 15:48:22,469	64848	com.cjcwebapp.Magento.Test.Magento_onlineshopping_Test	[main]	Screen Shot After Completion The Process
+INFO	2023-10-31 15:51:47,573	0	com.cjcwebapp.Magento.page.Loging_page	[main]	smitasukhadevpawar131@gmail.com
+INFO	2023-10-31 15:51:47,573	0	com.cjcwebapp.Magento.page.Loging_page	[main]	smita@155
+INFO	2023-10-31 15:51:56,784	9211	com.cjcwebapp.Magento.Test.Magento_onlineshopping_Test	[main]	Screen Shot After Completion The Process
+INFO	2023-10-31 15:52:19,807	32234	com.cjcwebapp.Magento.Test.Magento_onlineshopping_Test	[main]	Screen Shot After Completion The Process
+INFO	2023-10-31 15:52:32,067	44494	com.cjcwebapp.Magento.Test.Magento_onlineshopping_Test	[main]	Screen Shot After Completion The Process
+INFO	2023-10-31 15:52:34,321	46748	com.cjcwebapp.Magento.Test.Magento_onlineshopping_Test	[main]	Screen Shot After Completion The Process
+INFO	2023-10-31 15:56:20,177	0	com.cjcwebapp.Magento.page.Loging_page	[main]	smitasukhadevpawar131@gmail.com
+INFO	2023-10-31 15:56:20,178	1	com.cjcwebapp.Magento.page.Loging_page	[main]	smita@155
+INFO	2023-10-31 15:56:31,052	10875	com.cjcwebapp.Magento.Test.Magento_onlineshopping_Test	[main]	Screen Shot After Completion The Process
+INFO	2023-10-31 15:57:01,998	41821	com.cjcwebapp.Magento.Test.Magento_onlineshopping_Test	[main]	Screen Shot After Completion The Process
+INFO	2023-10-31 15:57:18,547	58370	com.cjcwebapp.Magento.Test.Magento_onlineshopping_Test	[main]	Screen Shot After Completion The Process
+INFO	2023-10-31 15:57:20,746	60569	com.cjcwebapp.Magento.Test.Magento_onlineshopping_Test	[main]	Screen Shot After Completion The Process
+INFO	2023-10-31 15:59:14,678	0	com.cjcwebapp.Magento.page.Loging_page	[main]	smitasukhadevpawar131@gmail.com
+INFO	2023-10-31 15:59:14,679	1	com.cjcwebapp.Magento.page.Loging_page	[main]	smita@155
+INFO	2023-10-31 15:59:23,577	8899	com.cjcwebapp.Magento.Test.Magento_onlineshopping_Test	[main]	Screen Shot After Completion The Process
+INFO	2023-10-31 15:59:44,436	29758	com.cjcwebapp.Magento.Test.Magento_onlineshopping_Test	[main]	Screen Shot After Completion The Process
+INFO	2023-10-31 16:00:08,857	54179	com.cjcwebapp.Magento.Test.Magento_onlineshopping_Test	[main]	Screen Shot After Completion The Process
+INFO	2023-10-31 16:01:44,328	0	com.cjcwebapp.Magento.page.Loging_page	[main]	smitasukhadevpawar131@gmail.com
+INFO	2023-10-31 16:01:44,329	1	com.cjcwebapp.Magento.page.Loging_page	[main]	smita@155
+INFO	2023-10-31 16:01:56,041	11713	com.cjcwebapp.Magento.Test.Magento_onlineshopping_Test	[main]	Screen Shot After Completion The Process
+INFO	2023-10-31 16:02:23,155	38827	com.cjcwebapp.Magento.Test.Magento_onlineshopping_Test	[main]	Screen Shot After Completion The Process
+INFO	2023-10-31 16:02:36,415	52087	com.cjcwebapp.Magento.Test.Magento_onlineshopping_Test	[main]	Screen Shot After Completion The Process
+INFO	2023-10-31 16:04:33,543	0	com.cjcwebapp.Magento.page.Loging_page	[main]	smitasukhadevpawar131@gmail.com
+INFO	2023-10-31 16:04:33,544	1	com.cjcwebapp.Magento.page.Loging_page	[main]	smita@155
+INFO	2023-10-31 16:04:44,123	10580	com.cjcwebapp.Magento.Test.Magento_onlineshopping_Test	[main]	Screen Shot After Completion The Process
+INFO	2023-10-31 16:05:07,668	34125	com.cjcwebapp.Magento.Test.Magento_onlineshopping_Test	[main]	Screen Shot After Completion The Process
+INFO	2023-10-31 16:05:28,278	54735	com.cjcwebapp.Magento.Test.Magento_onlineshopping_Test	[main]	Screen Shot After Completion The Process
+INFO	2023-10-31 16:09:04,882	0	com.cjcwebapp.Magento.Test.Magento_onlineshopping_Test	[main]	Screen Shot After Completion The Process
+INFO	2023-10-31 16:09:44,373	0	com.cjcwebapp.Magento.page.Loging_page	[main]	smitasukhadevpawar131@gmail.com
+INFO	2023-10-31 16:09:44,374	1	com.cjcwebapp.Magento.page.Loging_page	[main]	smita@155
+INFO	2023-10-31 16:09:53,463	9090	com.cjcwebapp.Magento.Test.Magento_onlineshopping_Test	[main]	Screen Shot After Completion The Process
+INFO	2023-10-31 16:10:13,367	28994	com.cjcwebapp.Magento.Test.Magento_onlineshopping_Test	[main]	Screen Shot After Completion The Process
+INFO	2023-10-31 16:10:25,873	41500	com.cjcwebapp.Magento.Test.Magento_onlineshopping_Test	[main]	Screen Shot After Completion The Process
+INFO	2023-10-31 16:12:14,688	0	com.cjcwebapp.Magento.page.Loging_page	[main]	smitasukhadevpawar131@gmail.com
+INFO	2023-10-31 16:12:14,689	1	com.cjcwebapp.Magento.page.Loging_page	[main]	smita@155
+INFO	2023-10-31 16:12:24,217	9529	com.cjcwebapp.Magento.Test.Magento_onlineshopping_Test	[main]	Screen Shot After Completion The Process
+INFO	2023-10-31 16:12:30,368	15680	com.cjcwebapp.Magento.Test.Magento_onlineshopping_Test	[main]	Screen Shot After Completion The Process
+INFO	2023-10-31 16:12:56,895	0	com.cjcwebapp.Magento.page.Loging_page	[main]	smitasukhadevpawar131@gmail.com
+INFO	2023-10-31 16:12:56,896	1	com.cjcwebapp.Magento.page.Loging_page	[main]	smita@155
+INFO	2023-10-31 16:13:06,017	9122	com.cjcwebapp.Magento.Test.Magento_onlineshopping_Test	[main]	Screen Shot After Completion The Process
+INFO	2023-10-31 16:13:26,136	29241	com.cjcwebapp.Magento.Test.Magento_onlineshopping_Test	[main]	Screen Shot After Completion The Process
+INFO	2023-10-31 16:13:43,636	46741	com.cjcwebapp.Magento.Test.Magento_onlineshopping_Test	[main]	Screen Shot After Completion The Process
+INFO	2023-10-31 16:15:17,548	0	com.cjcwebapp.Magento.page.Loging_page	[main]	smitasukhadevpawar131@gmail.com
+INFO	2023-10-31 16:15:17,549	1	com.cjcwebapp.Magento.page.Loging_page	[main]	smita@155
+INFO	2023-10-31 16:15:26,726	9178	com.cjcwebapp.Magento.Test.Magento_onlineshopping_Test	[main]	Screen Shot After Completion The Process
+INFO	2023-10-31 16:15:53,631	36083	com.cjcwebapp.Magento.Test.Magento_onlineshopping_Test	[main]	Screen Shot After Completion The Process
+INFO	2023-10-31 16:16:07,033	49485	com.cjcwebapp.Magento.Test.Magento_onlineshopping_Test	[main]	Screen Shot After Completion The Process
+INFO	2023-10-31 16:16:40,987	0	com.cjcwebapp.Magento.page.Loging_page	[main]	smitasukhadevpawar131@gmail.com
+INFO	2023-10-31 16:16:40,988	1	com.cjcwebapp.Magento.page.Loging_page	[main]	smita@155
+INFO	2023-10-31 16:16:49,903	8916	com.cjcwebapp.Magento.Test.Magento_onlineshopping_Test	[main]	Screen Shot After Completion The Process
+INFO	2023-10-31 16:17:11,319	30332	com.cjcwebapp.Magento.Test.Magento_onlineshopping_Test	[main]	Screen Shot After Completion The Process
+INFO	2023-10-31 16:17:31,301	50314	com.cjcwebapp.Magento.Test.Magento_onlineshopping_Test	[main]	Screen Shot After Completion The Process
+INFO	2023-10-31 16:19:22,209	0	com.cjcwebapp.Magento.page.Loging_page	[main]	smitasukhadevpawar131@gmail.com
+INFO	2023-10-31 16:19:22,210	1	com.cjcwebapp.Magento.page.Loging_page	[main]	smita@155
+INFO	2023-10-31 16:19:31,105	8896	com.cjcwebapp.Magento.Test.Magento_onlineshopping_Test	[main]	Screen Shot After Completion The Process
+INFO	2023-10-31 16:19:50,830	28621	com.cjcwebapp.Magento.Test.Magento_onlineshopping_Test	[main]	Screen Shot After Completion The Process
+INFO	2023-10-31 16:20:04,099	41890	com.cjcwebapp.Magento.Test.Magento_onlineshopping_Test	[main]	Screen Shot After Completion The Process
+INFO	2023-10-31 16:23:18,638	0	com.cjcwebapp.Magento.page.Loging_page	[main]	smitasukhadevpawar131@gmail.com
+INFO	2023-10-31 16:23:18,638	0	com.cjcwebapp.Magento.page.Loging_page	[main]	smita@155
+INFO	2023-10-31 16:23:27,945	9307	com.cjcwebapp.Magento.Test.Magento_onlineshopping_Test	[main]	Screen Shot After Completion The Process
+INFO	2023-10-31 16:23:48,549	29911	com.cjcwebapp.Magento.Test.Magento_onlineshopping_Test	[main]	Screen Shot After Completion The Process
+INFO	2023-10-31 16:24:05,458	46820	com.cjcwebapp.Magento.Test.Magento_onlineshopping_Test	[main]	Screen Shot After Completion The Process
+INFO	2023-10-31 16:26:00,603	0	com.cjcwebapp.Magento.page.Loging_page	[main]	smitasukhadevpawar131@gmail.com
+INFO	2023-10-31 16:26:00,603	0	com.cjcwebapp.Magento.page.Loging_page	[main]	smita@155
+INFO	2023-10-31 16:26:09,785	9182	com.cjcwebapp.Magento.Test.Magento_onlineshopping_Test	[main]	Screen Shot After Completion The Process
+INFO	2023-10-31 16:26:30,219	29616	com.cjcwebapp.Magento.Test.Magento_onlineshopping_Test	[main]	Screen Shot After Completion The Process
+INFO	2023-10-31 16:26:49,906	49303	com.cjcwebapp.Magento.Test.Magento_onlineshopping_Test	[main]	Screen Shot After Completion The Process
+INFO	2023-10-31 16:28:40,571	0	com.cjcwebapp.Magento.page.Loging_page	[main]	smitasukhadevpawar131@gmail.com
+INFO	2023-10-31 16:28:40,572	1	com.cjcwebapp.Magento.page.Loging_page	[main]	smita@155
+INFO	2023-10-31 16:28:51,511	10940	com.cjcwebapp.Magento.Test.Magento_onlineshopping_Test	[main]	Screen Shot After Completion The Process
+INFO	2023-10-31 16:29:16,045	35474	com.cjcwebapp.Magento.Test.Magento_onlineshopping_Test	[main]	Screen Shot After Completion The Process
+INFO	2023-10-31 16:29:29,326	48755	com.cjcwebapp.Magento.Test.Magento_onlineshopping_Test	[main]	Screen Shot After Completion The Process
+INFO	2023-10-31 16:30:07,073	0	com.cjcwebapp.Magento.page.Loging_page	[main]	smitasukhadevpawar131@gmail.com
+INFO	2023-10-31 16:30:07,074	1	com.cjcwebapp.Magento.page.Loging_page	[main]	smita@155
+INFO	2023-10-31 16:30:16,732	9659	com.cjcwebapp.Magento.Test.Magento_onlineshopping_Test	[main]	Screen Shot After Completion The Process
+INFO	2023-10-31 16:30:38,455	31382	com.cjcwebapp.Magento.Test.Magento_onlineshopping_Test	[main]	Screen Shot After Completion The Process
+INFO	2023-10-31 16:30:51,703	44630	com.cjcwebapp.Magento.Test.Magento_onlineshopping_Test	[main]	Screen Shot After Completion The Process
+INFO	2023-10-31 16:31:33,320	1	com.cjcwebapp.Magento.page.Loging_page	[main]	smitasukhadevpawar131@gmail.com
+INFO	2023-10-31 16:31:33,320	1	com.cjcwebapp.Magento.page.Loging_page	[main]	smita@155
+INFO	2023-10-31 16:31:42,261	8942	com.cjcwebapp.Magento.Test.Magento_onlineshopping_Test	[main]	Screen Shot After Completion The Process
+INFO	2023-10-31 16:32:03,792	30473	com.cjcwebapp.Magento.Test.Magento_onlineshopping_Test	[main]	Screen Shot After Completion The Process
+INFO	2023-10-31 16:32:21,681	48362	com.cjcwebapp.Magento.Test.Magento_onlineshopping_Test	[main]	Screen Shot After Completion The Process
+INFO	2023-10-31 16:34:44,586	1	com.cjcwebapp.Magento.page.Loging_page	[main]	smitasukhadevpawar131@gmail.com
+INFO	2023-10-31 16:34:44,586	1	com.cjcwebapp.Magento.page.Loging_page	[main]	smita@155
+INFO	2023-10-31 16:34:54,723	10138	com.cjcwebapp.Magento.Test.Magento_onlineshopping_Test	[main]	Screen Shot After Completion The Process
+INFO	2023-10-31 16:35:23,307	38722	com.cjcwebapp.Magento.Test.Magento_onlineshopping_Test	[main]	Screen Shot After Completion The Process
+INFO	2023-10-31 16:35:34,913	50328	com.cjcwebapp.Magento.Test.Magento_onlineshopping_Test	[main]	Screen Shot After Completion The Process
