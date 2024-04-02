@@ -1,0 +1,48 @@
+DEBUG	2023-01-16 21:55:33,357	0	com.cjc.webapp.DemowebShop.Test.DemowebShopTest	[main]	Send URL to the browser By XML Parameter
+INFO	2023-01-16 21:55:33,552	195	com.cjc.webapp.DemowebShop.Test.DemowebShopTest	[main]	Maximizing The Window
+INFO	2023-01-16 21:55:33,583	226	com.cjc.webapp.DemowebShop.Test.DemowebShopTest	[main]	Cookies Length Before = 9
+INFO	2023-01-16 21:55:40,310	6953	com.cjc.webapp.DemowebShop.page.DemowebShop1	[main]	Registration Check Is Successful
+INFO	2023-01-16 21:55:42,609	9252	com.cjc.webapp.DemowebShop.Test.DemowebShopTest	[main]	Screen Shot After Completion The Process
+INFO	2023-01-16 21:55:42,625	9268	com.cjc.webapp.DemowebShop.Test.DemowebShopTest	[main]	Cookies Length Before = 10
+INFO	2023-01-16 21:55:49,542	16185	com.cjc.webapp.DemowebShop.page.DemowebShop2	[main]	Logout Check Is Successful
+INFO	2023-01-16 21:55:51,813	18456	com.cjc.webapp.DemowebShop.Test.DemowebShopTest	[main]	Screen Shot After Completion The Process
+INFO	2023-01-16 21:55:51,832	18475	com.cjc.webapp.DemowebShop.Test.DemowebShopTest	[main]	Cookies Length Before = 10
+INFO	2023-01-16 21:56:02,677	29320	com.cjc.webapp.DemowebShop.page.DemowebShop3	[main]	Login Check Is Successful
+INFO	2023-01-16 21:56:04,962	31605	com.cjc.webapp.DemowebShop.Test.DemowebShopTest	[main]	Screen Shot After Completion The Process
+INFO	2023-01-16 21:56:04,975	31618	com.cjc.webapp.DemowebShop.Test.DemowebShopTest	[main]	Cookies Length Before = 11
+INFO	2023-01-16 21:56:18,253	44896	com.cjc.webapp.DemowebShop.page.DemowebShop4	[main]	Add To Gift Card Successfully
+INFO	2023-01-16 21:56:20,502	47145	com.cjc.webapp.DemowebShop.Test.DemowebShopTest	[main]	Screen Shot After Completion The Process
+INFO	2023-01-16 21:56:20,515	47158	com.cjc.webapp.DemowebShop.Test.DemowebShopTest	[main]	Cookies Length Before = 14
+INFO	2023-01-16 21:56:30,285	56928	com.cjc.webapp.DemowebShop.page.DemowebShop5	[main]	Add To Cart Book Is Succesfull
+INFO	2023-01-16 21:56:32,534	59177	com.cjc.webapp.DemowebShop.Test.DemowebShopTest	[main]	Screen Shot After Completion The Process
+INFO	2023-01-16 21:56:32,545	59188	com.cjc.webapp.DemowebShop.Test.DemowebShopTest	[main]	Cookies Length Before = 14
+INFO	2023-01-16 21:56:46,289	72932	com.cjc.webapp.DemowebShop.page.DemowebShop6	[main]	Order number: 1355752
+WARN	2023-01-16 21:56:48,013	74656	com.cjc.webapp.DemowebShop.page.DemowebShop6	[main]	Please Make Billing & Payment Carefully
+INFO	2023-01-16 21:56:50,246	76889	com.cjc.webapp.DemowebShop.Test.DemowebShopTest	[main]	Screen Shot After Completion The Process
+INFO	2023-01-16 21:56:50,363	77006	com.cjc.webapp.DemowebShop.Test.DemowebShopTest	[main]	Delete All Cookies
+INFO	2023-01-16 21:56:50,364	77007	com.cjc.webapp.DemowebShop.Test.DemowebShopTest	[main]	Data Base Connection Close
+ERROR	2023-01-16 21:56:53,411	80054	com.cjc.webapp.DemowebShop.Test.DemowebShopTest	[main]	Carefully Browser Close
+DEBUG	2023-01-17 10:09:58,416	0	com.cjc.webapp.DemowebShop.Test.DemowebShopTest	[main]	Send URL to the browser By XML Parameter
+INFO	2023-01-17 10:09:58,610	194	com.cjc.webapp.DemowebShop.Test.DemowebShopTest	[main]	Maximizing The Window
+INFO	2023-01-17 10:09:58,647	231	com.cjc.webapp.DemowebShop.Test.DemowebShopTest	[main]	Cookies Length Before = 9
+INFO	2023-01-17 10:10:04,978	6562	com.cjc.webapp.DemowebShop.page.RegistrationPage	[main]	Registration Check Is Successful
+INFO	2023-01-17 10:10:07,241	8825	com.cjc.webapp.DemowebShop.Test.DemowebShopTest	[main]	Screen Shot After Completion The Process
+INFO	2023-01-17 10:10:07,258	8842	com.cjc.webapp.DemowebShop.Test.DemowebShopTest	[main]	Cookies Length Before = 10
+INFO	2023-01-17 10:10:10,553	12137	com.cjc.webapp.DemowebShop.page.LogoutPage	[main]	Logout Check Is Successful
+INFO	2023-01-17 10:10:12,812	14396	com.cjc.webapp.DemowebShop.Test.DemowebShopTest	[main]	Screen Shot After Completion The Process
+INFO	2023-01-17 10:10:12,828	14412	com.cjc.webapp.DemowebShop.Test.DemowebShopTest	[main]	Cookies Length Before = 10
+INFO	2023-01-17 10:10:20,683	22267	com.cjc.webapp.DemowebShop.page.LoginPage	[main]	Login Check Is Successful
+INFO	2023-01-17 10:10:22,950	24534	com.cjc.webapp.DemowebShop.Test.DemowebShopTest	[main]	Screen Shot After Completion The Process
+INFO	2023-01-17 10:10:22,962	24546	com.cjc.webapp.DemowebShop.Test.DemowebShopTest	[main]	Cookies Length Before = 11
+INFO	2023-01-17 10:10:27,931	29515	com.cjc.webapp.DemowebShop.page.AddtoGiftCardPage	[main]	Add To Gift Card Successfully
+INFO	2023-01-17 10:10:30,203	31787	com.cjc.webapp.DemowebShop.Test.DemowebShopTest	[main]	Screen Shot After Completion The Process
+INFO	2023-01-17 10:10:30,215	31799	com.cjc.webapp.DemowebShop.Test.DemowebShopTest	[main]	Cookies Length Before = 14
+INFO	2023-01-17 10:10:37,896	39480	com.cjc.webapp.DemowebShop.page.AddtoCartBooksPage	[main]	Add To Cart Book Is Succesfull
+INFO	2023-01-17 10:10:40,124	41708	com.cjc.webapp.DemowebShop.Test.DemowebShopTest	[main]	Screen Shot After Completion The Process
+INFO	2023-01-17 10:10:40,135	41719	com.cjc.webapp.DemowebShop.Test.DemowebShopTest	[main]	Cookies Length Before = 14
+INFO	2023-01-17 10:10:52,215	53799	com.cjc.webapp.DemowebShop.page.BillingAdressPage	[main]	Order number: 1356146
+WARN	2023-01-17 10:10:53,444	55028	com.cjc.webapp.DemowebShop.page.BillingAdressPage	[main]	Please Make Billing & Payment Carefully
+INFO	2023-01-17 10:10:55,718	57302	com.cjc.webapp.DemowebShop.Test.DemowebShopTest	[main]	Screen Shot After Completion The Process
+INFO	2023-01-17 10:10:55,805	57389	com.cjc.webapp.DemowebShop.Test.DemowebShopTest	[main]	Delete All Cookies
+INFO	2023-01-17 10:10:55,805	57389	com.cjc.webapp.DemowebShop.Test.DemowebShopTest	[main]	Data Base Connection Close
+ERROR	2023-01-17 10:10:58,850	60434	com.cjc.webapp.DemowebShop.Test.DemowebShopTest	[main]	Carefully Browser Close
